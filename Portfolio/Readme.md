@@ -1,33 +1,39 @@
-# CodSoft Repository
+# Portfolio Website
 
-A small web development portfolio containing three projects built with HTML, CSS, and JavaScript.
+A personal portfolio website built with HTML and CSS to showcase projects, skills, and contact details.
 
-## Projects Included
+## Demo
 
-1. **Landing Page**
-   - A responsive product or shopping landing page design.
-   - Live Demo: https://vikas-gupta007.github.io/CodSoft/LandingPage/
+- Live demo: https://vikas-gupta007.github.io/CodSoft/Portfolio/
 
-2. **Portfolio Website**
-   - A personal portfolio site showcasing skills, projects, and contact details.
-   - Live Demo: https://vikas-gupta007.github.io/CodSoft/Portfolio/
+## Overview
 
-3. **Calculator Website**
-   - A functional calculator built with JavaScript for basic operations.
-   - Live Demo: https://vikas-gupta007.github.io/CodSoft/Calculator/
+This portfolio website includes:
+
+- Header with name and role
+- About section with a profile image and introduction
+- Skills section showcasing frontend technologies and programming languages
+- Projects section highlighting completed web development projects
+- Resume download link
+- Contact details section
+
+## Technologies Used
+
+- HTML5
+- CSS3
 
 ## How to View
 
-- Open any demo file in your browser directly from the repository.
-- Example: open `landingpage/index.html`, `portfolio/index.html`, or `calculator/index.html`.
+1. Open `portfolio/index.html` in your web browser.
+2. Or use a local server if you prefer, for example: `npx serve portfolio`.
 
-## Repository Structure
+## Project Structure
 
-- `calculator/` - calculator app files
-- `landingpage/` - landing page design files
-- `portfolio/` - portfolio website files
+- `index.html` - main portfolio page
+- `style.css` - styling for layout and design
+- `Asset/` - profile image and resume PDF files
 
 ## Notes
 
-For a hosted demo, deploy the repository to GitHub Pages or another static hosting service and update the links accordingly.
+Replace the demo link with an actual hosted URL once the site is deployed to GitHub Pages or another hosting service.
 
