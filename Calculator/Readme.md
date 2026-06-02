@@ -1,24 +1,26 @@
-# Landing Page
+# Calculator
 
-A modern landing page built with HTML and CSS. The page is designed to showcase a product or service with a clean layout, prominent hero section, and responsive styling.
+A simple web-based calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations and is designed for easy use on desktop and mobile browsers.
 
 ## Features
 
-- Simple, professional landing page structure
-- Responsive layout for desktop and mobile
-- Hero section with call-to-action
-- Styled navigation and content sections
+- Addition, subtraction, multiplication, and division
+- Clear and delete functionality
+- Responsive, clean user interface
+- Real-time calculation display
 
 ## Files
 
-- `index.html` — page structure and content
-- `style.css` — styling, layout, and responsive design
+- `index.html` — calculator layout and button structure
+- `style.css` — visual styling and responsive layout
+- `script.js` — calculator logic and button interaction handling
 
 ## Usage
 
 1. Open `index.html` in your web browser.
-2. Review the hero section, features, and content sections.
-3. Customize text, images, or styles as needed for your own landing page.
+2. Click numbers and operators to build an expression.
+3. Press `=` to see the result.
+4. Use `C` to clear and `DEL` to remove the last digit.
 
 ## Demo
 
@@ -26,6 +28,5 @@ A modern landing page built with HTML and CSS. The page is designed to showcase 
 
 ## Notes
 
-- Easy to adapt for portfolio, product, or service promotion.
-- No JavaScript required; purely HTML and CSS.
-
+- Works offline in any modern browser.
+- Designed for learning web development fundamentals.
